@@ -1,0 +1,38 @@
+2024-12-07 13:32:43,880 - INFO - Initializing Trading Bot
+2024-12-07 13:32:43,880 - INFO - Starting AI-powered trading bot...
+2024-12-07 13:32:43,880 - INFO - Bot is running... Press Ctrl+C to stop
+2024-12-07 13:38:43,492 - INFO - Initializing Trading Bot
+2024-12-07 13:38:43,492 - INFO - Starting AI-powered trading bot...
+2024-12-07 13:38:43,492 - INFO - Bot is running... Press Ctrl+C to stop
+2024-12-07 15:06:29,669 - INFO - Initializing Trading Bot
+2024-12-07 15:06:29,669 - INFO - Starting AI-powered trading bot...
+2024-12-07 15:06:29,669 - INFO - Bot is running... Press Ctrl+C to stop
+2024-12-07 17:05:03,486 - ERROR - Bot error: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+2024-12-07 18:25:15,890 - INFO - Initializing Trading Bot with notifications
+2024-12-07 18:25:15,890 - INFO - Starting enhanced trading bot...
+2024-12-07 18:25:15,890 - INFO - Bot is running... Press Ctrl+C to stop
+2024-12-07 18:36:04,437 - INFO - Initializing Enhanced Trading Bot
+2024-12-07 18:36:04,437 - INFO - Starting enhanced trading bot...
+2024-12-07 18:36:04,437 - INFO - Bot is running... Press Ctrl+C to stop
+2024-12-07 18:37:53,605 - ERROR - Token scanning error: name 'random' is not defined
+2024-12-07 18:37:54,234 - ERROR - Chart generation error: 'price'
+2024-12-07 18:42:01,672 - ERROR - Bot error: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+2024-12-07 19:04:03,349 - ERROR - Unexpected error: name 'WhatsAppNotifier' is not defined
+2024-12-07 19:10:24,550 - INFO - Analysis: {'symbol': 'BTCUSDT', 'pump_analysis': {'pump_score': 20, 'signals': ['Liquidity: $371,863.14'], 'metrics': {'price': 99334.85, 'price_change': 0.552, 'liquidity': 371863.13756420003}}}
+2024-12-07 19:11:03,845 - INFO - Bot stopped.
+2024-12-07 19:15:50,422 - ERROR - GPT analysis error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-12-07 19:15:50,443 - ERROR - Error in main loop: name 'time' is not defined
+2024-12-07 19:18:27,514 - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=25385 request_id=req_66700e4d6acc6e5773943fe4ee5390d9 response_code=200
+2024-12-07 19:19:02,315 - INFO - Bot stopped by user.
+2024-12-09 11:00:59,662 - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=16965 request_id=req_e7e525d362a1adba900d7a108277215f response_code=200
+2024-12-09 11:03:16,786 - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=15952 request_id=req_4d0d0e121f552fc332081e8618065c05 response_code=200
+2024-12-09 11:03:45,769 - INFO - Bot stopped by user.

@@ -1,0 +1,31 @@
+2024-12-07 12:37:48,427 - INFO - Starting token tracker...
+2024-12-07 12:37:49,064 - ERROR - Failed to fetch data: Status 403
+2024-12-07 12:38:55,658 - INFO - Starting token tracking application...
+2024-12-07 12:38:55,658 - INFO - Initializing TokenTracker with base URL: https://gmgn.ai
+2024-12-07 12:38:55,658 - INFO - Testing connection to GMGN...
+2024-12-07 12:38:55,947 - INFO - Response status code: 403
+2024-12-07 12:38:55,947 - INFO - Response headers: {'Date': 'Sat, 07 Dec 2024 07:08:55 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Accept-CH': 'Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA', 'Critical-CH': 'Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA', 'Cross-Origin-Embedder-Policy': 'require-corp', 'Cross-Origin-Opener-Policy': 'same-origin', 'Cross-Origin-Resource-Policy': 'same-origin', 'Origin-Agent-Cluster': '?1', 'Permissions-Policy': 'accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()', 'X-Content-Options': 'nosniff', 'cf-mitigated': 'challenge', 'cf-chl-out': 'vEDO5ju+TJlkE/iHcGk+/Qj1insm7bJBbUWBSRLpUAAZuEHZM2VayJxe3WRlJalVjE2z2mVE0JvSDytBuD6r9X4AAgGnYYCgnp5xgfw5RRJZO5286WxvnA1qA51x/MLCcWLslYMGZj0S5pEwX4O9EQ==$XOEan92pNfleYcQ1Aikcsw==', 'Cache-Control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'Expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'Set-Cookie': '__cf_bm=s.OJ8tTG_lPat_.4hKDl.ZqhZb7FzpbPPdYKKoH60yc-1733555335-1.0.1.1-qsceG8MGi5bG8.xxPrwtDCIDHhmOIX63wtwLHD197rBluhl10tN63AmLJDNN1o0nuPDZ7QW24iPZjyxl.1UTqg; path=/; expires=Sat, 07-Dec-24 07:38:55 GMT; domain=.gmgn.ai; HttpOnly; Secure; SameSite=None', 'Vary': 'Accept-Encoding', 'Strict-Transport-Security': 'max-age=2592000; includeSubDomains; preload', 'expect-ct': 'max-age=86400, enforce', 'referrer-policy': 'same-origin', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'x-xss-protection': '1; mode=block', 'Server': 'cloudflare', 'CF-RAY': '8ee2aff11c294738-BOM', 'Content-Encoding': 'gzip', 'alt-svc': 'h3=":443"; ma=86400'}
+2024-12-07 12:38:55,947 - ERROR - Failed to connect to GMGN
+2024-12-07 12:40:08,571 - INFO - Starting token tracking application...
+2024-12-07 12:40:08,571 - INFO - Initializing TokenTracker with updated headers
+2024-12-07 12:40:08,571 - INFO - Testing connection to GMGN...
+2024-12-07 12:40:09,129 - INFO - Response status code: 403
+2024-12-07 12:40:09,129 - ERROR - Connection failed with status 403
+2024-12-07 12:40:09,129 - INFO - Response text: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+2024-12-07 12:40:09,129 - ERROR - Could not establish connection to GMGN
+2024-12-07 12:40:09,129 - INFO - Please verify:
+2024-12-07 12:40:09,129 - INFO - 1. API endpoint URL
+2024-12-07 12:40:09,129 - INFO - 2. Authentication requirements
+2024-12-07 12:40:09,130 - INFO - 3. Rate limiting rules
+2024-12-07 12:48:14,522 - INFO - Starting token tracking application...
+2024-12-07 12:48:14,522 - INFO - Initializing TokenTracker with API endpoint: https://gmgn.ai/api/tokens
+2024-12-07 12:48:14,522 - INFO - Fetching token data...
+2024-12-07 12:48:14,924 - INFO - Response status: 403
+2024-12-07 12:48:14,924 - ERROR - Failed to fetch data: Status 403
+2024-12-07 12:48:14,924 - ERROR - Failed to retrieve token data
+2024-12-07 12:55:41,144 - INFO - Initializing GMGN Tracker
+2024-12-07 12:55:41,144 - INFO - Starting bot...
+2024-12-07 12:55:41,144 - INFO - Bot is running... Press Ctrl+C to stop
+2024-12-07 13:00:20,951 - INFO - Initializing GMGN Tracker
+2024-12-07 13:00:20,952 - INFO - Starting bot...
+2024-12-07 13:00:20,952 - INFO - Bot is running... Press Ctrl+C to stop
